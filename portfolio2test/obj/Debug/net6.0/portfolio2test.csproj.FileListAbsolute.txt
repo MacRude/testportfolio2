@@ -1,0 +1,5 @@
+C:\Users\magnu\source\repos\portfolio2test\portfolio2test\obj\Debug\net6.0\portfolio2test.csproj.AssemblyReference.cache
+C:\Users\magnu\source\repos\portfolio2test\portfolio2test\obj\Debug\net6.0\portfolio2test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magnu\source\repos\portfolio2test\portfolio2test\obj\Debug\net6.0\portfolio2test.AssemblyInfoInputs.cache
+C:\Users\magnu\source\repos\portfolio2test\portfolio2test\obj\Debug\net6.0\portfolio2test.AssemblyInfo.cs
+C:\Users\magnu\source\repos\portfolio2test\portfolio2test\obj\Debug\net6.0\portfolio2test.csproj.CoreCompileInputs.cache
